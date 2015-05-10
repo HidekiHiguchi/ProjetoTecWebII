@@ -1,5 +1,5 @@
 		<!DOCTYPE html>
-	<html lang="pt">
+	<html lang="en">
 	
 	<head>
 	
@@ -9,7 +9,7 @@
 	    <meta name="description" content="">
 	    <meta name="author" content="Hideki Higuchi" >
 	
-	    <title>Login</title>
+	    <title>Shop Homepage - Start Bootstrap Template</title>
 	
 	    <!-- Bootstrap Core CSS -->
 	    <link href="css/bootstrap.min.css" rel="stylesheet">
